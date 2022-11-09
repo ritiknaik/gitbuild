@@ -7,6 +7,7 @@ pipeline {
             steps {
                 echo 'Building whole project here!'
                 make add
+                echo 'Done building'
             }
         }
     }
