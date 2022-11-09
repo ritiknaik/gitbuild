@@ -5,8 +5,8 @@ int add(int a, int b){
 }
 
 int main(){
-    int a = 5;
-    int b = 3;
+    int a = 6;
+    int b = 4;
     int ans = add(a, b);
     printf("Addition of %d and %d is %d\n", a, b, ans);
     return 0;
